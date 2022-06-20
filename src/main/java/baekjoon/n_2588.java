@@ -2,7 +2,7 @@ package baekjoon;
 
 import java.util.Scanner;
 
-public class n_2588_곱셈 {
+public class n_2588 {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         int num1=scanner.nextInt(); //입력 받을 첫번째 정수
