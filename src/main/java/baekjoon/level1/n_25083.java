@@ -1,4 +1,4 @@
-package baekjoon.단계1;
+package baekjoon.level1;
 
 public class n_25083 {
     public static void main(String[] args){
