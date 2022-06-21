@@ -19,7 +19,7 @@ public class n_4673 {
         }
     }
 
-    public static int checkNum(int num){
+    private static int checkNum(int num){
         int sum=num;
 
         while(num!=0){
