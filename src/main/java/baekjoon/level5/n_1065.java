@@ -2,7 +2,6 @@ package baekjoon.level5;
 
 import java.util.Scanner;
 
-
 public class n_1065 {
     public static void main(String [] args){
         Scanner scanner = new Scanner(System.in);
