@@ -1,5 +1,4 @@
 package baekjoon.level3;
-
 import java.io.*;
 import java.util.StringTokenizer;
 

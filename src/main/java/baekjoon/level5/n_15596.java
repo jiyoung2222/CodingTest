@@ -1,5 +1,4 @@
 package baekjoon.level5;
-
 public class n_15596 {
     public long sum(int [] a){
         long result=0;

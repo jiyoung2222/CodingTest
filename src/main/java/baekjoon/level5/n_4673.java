@@ -1,5 +1,4 @@
 package baekjoon.level5;
-
 public class n_4673 {
 
     public static void main(String[] args){

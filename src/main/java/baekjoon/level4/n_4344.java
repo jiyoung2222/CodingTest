@@ -1,5 +1,4 @@
 package baekjoon.level4;
-
 import java.util.Scanner;
 
 public class n_4344 {
