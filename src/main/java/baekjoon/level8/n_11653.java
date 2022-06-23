@@ -17,6 +17,7 @@ public class n_11653 {
                 if(num%n==0){
                     num=num/n;
                     System.out.println(n);
+                    continue;
                 }
                 n++;
             }
