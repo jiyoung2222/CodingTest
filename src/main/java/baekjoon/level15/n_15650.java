@@ -23,8 +23,8 @@ public class n_15650 {
     public static void dfs(int at, int depth) {
 
         if (depth == M) {
-            for (int val : arr) {
-                System.out.print(val + " ");
+            for(int i=0; i< arr.length; i++){
+                System.out.print(arr[i]+" ");
             }
             System.out.println();
             return;
